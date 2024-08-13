@@ -27,6 +27,10 @@ The deep learning model employs Convolutional Neural Networks (CNNs) for effecti
 
 **Data Preprocessing**
 Data preprocessing involves cleaning the dataset, resizing images to a consistent size, and applying techniques such as color normalization to ensure uniformity. Data augmentation techniques are also used to enhance the model's generalization capability by simulating variations in lighting and angles.
+![image](https://github.com/user-attachments/assets/9e7af95a-3b8a-48eb-8291-16d78b22edb2)
+![image](https://github.com/user-attachments/assets/abd9e695-51a6-4560-adf9-6cb3a66a2771)
+![image](https://github.com/user-attachments/assets/be7b9032-cfa9-44df-b708-5bc7cd061842)
+![image](https://github.com/user-attachments/assets/ebca3489-4f36-430e-bbe8-1b49cdbb1680)
 
 **Training and Evaluation**
 The model is trained using the preprocessed dataset, optimizing for performance metrics like accuracy, precision, recall, and F1-score. Techniques such as data augmentation, regularization, and cross-validation are employed to improve the model’s robustness and prevent overfitting. The model's performance is evaluated on a separate test set to ensure it meets clinical standards.
